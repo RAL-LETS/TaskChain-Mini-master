@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+**/node_modules/
+
+# Build outputs
+client/dist/
+cache/
+artifacts/
+typechain-types/
+coverage/
+
+# Env files
+.env
+*.env.local
+
+# OS/editor
+.DS_Store
+.vscode/
+
+# Cargo/Rust
+target/
+**/target/
+test_snapshots/
+**/test_snapshots/

@@ -23,3 +23,4 @@ History of development milestones:
 - [2026-09-21T05:21:17+05:30] Milestone 19: Implement wallet connection and signing interface
 - [2026-09-22T06:39:53+05:30] Milestone 20: Add form validation and user input feedback
 - [2026-09-23T21:01:32+05:30] Milestone 21: Update documentation and inline comments
+- [2026-09-24T15:25:19+05:30] Milestone 22: Refactor API service calls and caching

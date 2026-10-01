@@ -27,3 +27,4 @@ History of development milestones:
 - [2026-09-26T13:44:22+05:30] Milestone 23: Fix responsive layout glitches on mobile viewports
 - [2026-09-27T21:02:20+05:30] Milestone 24: Enhance contract invocation event listeners
 - [2026-10-01T06:33:32+05:30] Milestone 25: Add telemetry and activity logging
+- [2026-10-01T07:58:21+05:30] Milestone 26: Update build scripts and deployment targets
